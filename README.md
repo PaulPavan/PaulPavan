@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-<!--
+## <!--
 **PaulPavan/PaulPavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Here are some ideas to get you started:
 
-- 🔭 I’m currently working on HR Analaysis
-- 🌱 I’m currently learning to get the information presenting using the PowerBI tool
+## - 🔭 I’m currently working on HR Analaysis
+## - 🌱 I’m currently learning to get the information presenting using the PowerBI tool
 🚀 **Unveiling Insights with Data-Driven HR Analysis!** 📊
 
 As a Data Analyst/Business Intelligence enthusiast, I had the incredible opportunity to delve into an insightful project analyzing **Employee Satisfaction**, **Attrition Trends**, and **Performance Metrics** for our HR team. 🎯 Here's what we explored:  
